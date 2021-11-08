@@ -6,7 +6,7 @@ body{
     display: flex;
     flex-direction: column;
     font-family: 'Mochiy Pop P One', sans-serif;
-    background: rgba(0, 0, 0, 0.7)url(./PexelsFrancescoUngaro.jpg);
+    background: rgba(153, 125, 33, 0.7);
     background-blend-mode: darken;
 }
 .header{
