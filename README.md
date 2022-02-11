@@ -10,4 +10,6 @@ Have fun!!!
 
 ## Picture
 ![guessPic](https://user-images.githubusercontent.com/91989821/153299687-a5293c37-df2d-400f-8195-63516f7b7335.png)
+
 ## Win
+![pic2](https://user-images.githubusercontent.com/91989821/153667178-f0b430cf-cfb7-4c5c-a405-b7d99b0ecbdc.png)
