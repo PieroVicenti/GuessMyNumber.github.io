@@ -13,3 +13,5 @@ Have fun!!!
 
 ## Win
 ![pic2](https://user-images.githubusercontent.com/91989821/153667178-f0b430cf-cfb7-4c5c-a405-b7d99b0ecbdc.png)
+
+## Lose
